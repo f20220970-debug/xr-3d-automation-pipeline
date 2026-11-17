@@ -1,0 +1,15 @@
+{
+ "parts": 306,
+ "assets": 28,
+ "median_oracle_seconds_per_part": 2.14,
+ "median_keep_lod1": 0.37,
+ "median_keep_lod2": 0.137,
+ "corr_boundary_fraction_vs_keep_lod1": 0.33,
+ "top_features_lod1": {
+  "edge_len_cv": 0.11,
+  "mean_edge_over_diag": 0.105,
+  "aspect_mid": 0.101,
+  "aspect_min": 0.099,
+  "faces_per_area": 0.092
+ }
+}

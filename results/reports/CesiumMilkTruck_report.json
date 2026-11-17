@@ -1,0 +1,112 @@
+{
+ "asset": "CesiumMilkTruck.glb",
+ "parts": 5,
+ "seconds": 2.6,
+ "unit_detected": "m",
+ "unit_confident": true,
+ "scale_applied": 1.0,
+ "size_m": [
+  2.792,
+  2.583,
+  4.869
+ ],
+ "triangles": {
+  "LOD0": 3624,
+  "LOD1": 3624,
+  "LOD2": 3473
+ },
+ "xr_budget": {
+  "LOD0": 500000,
+  "LOD1": 150000,
+  "LOD2": 50000
+ },
+ "xr_budget_pass": {
+  "LOD0": true,
+  "LOD1": true,
+  "LOD2": true
+ },
+ "cleanup": {
+  "duplicate_vertices_merged": 2375,
+  "bad_faces_removed": 0,
+  "parts_with_non_manifold_edges": 0,
+  "parts_with_open_boundaries": 5
+ },
+ "safety_fixups": 12,
+ "files": {
+  "LOD0": "CesiumMilkTruck_LOD0.glb",
+  "LOD1": "CesiumMilkTruck_LOD1.glb",
+  "LOD2": "CesiumMilkTruck_LOD2.glb"
+ },
+ "parts_detail": [
+  {
+   "part": "Cesium_Milk_Truck_18c3f3",
+   "faces_LOD0": 1744,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 1744,
+   "err_LOD1": 0.0,
+   "how_LOD1": "model",
+   "fixups_LOD1": 1,
+   "keep_LOD2": 0.9479,
+   "faces_LOD2": 1652,
+   "err_LOD2": 0.0,
+   "how_LOD2": "model",
+   "fixups_LOD2": 2
+  },
+  {
+   "part": "Cesium_Milk_Truck_58cfb9",
+   "faces_LOD0": 56,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 56,
+   "err_LOD1": 0.0,
+   "how_LOD1": "too small",
+   "fixups_LOD1": 0,
+   "keep_LOD2": 1.0,
+   "faces_LOD2": 56,
+   "err_LOD2": 0.0,
+   "how_LOD2": "too small",
+   "fixups_LOD2": 0
+  },
+  {
+   "part": "Cesium_Milk_Truck_df4328",
+   "faces_LOD0": 288,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 288,
+   "err_LOD1": 0.0,
+   "how_LOD1": "model",
+   "fixups_LOD1": 1,
+   "keep_LOD2": 0.0512,
+   "faces_LOD2": 229,
+   "err_LOD2": 0.00646,
+   "how_LOD2": "model",
+   "fixups_LOD2": 0
+  },
+  {
+   "part": "Wheels.001",
+   "faces_LOD0": 768,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 768,
+   "err_LOD1": 0.0,
+   "how_LOD1": "model",
+   "fixups_LOD1": 1,
+   "keep_LOD2": 1.0,
+   "faces_LOD2": 768,
+   "err_LOD2": 0.0,
+   "how_LOD2": "model",
+   "fixups_LOD2": 3
+  },
+  {
+   "part": "Wheels",
+   "faces_LOD0": 768,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 768,
+   "err_LOD1": 0.0,
+   "how_LOD1": "model",
+   "fixups_LOD1": 1,
+   "keep_LOD2": 1.0,
+   "faces_LOD2": 768,
+   "err_LOD2": 0.0,
+   "how_LOD2": "model",
+   "fixups_LOD2": 3
+  }
+ ]
+}

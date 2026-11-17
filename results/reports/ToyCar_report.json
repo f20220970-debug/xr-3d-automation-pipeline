@@ -1,0 +1,84 @@
+{
+ "asset": "ToyCar.glb",
+ "parts": 3,
+ "seconds": 6.2,
+ "unit_detected": "m",
+ "unit_confident": true,
+ "scale_applied": 1.0,
+ "size_m": [
+  0.073,
+  0.029,
+  0.074
+ ],
+ "triangles": {
+  "LOD0": 108936,
+  "LOD1": 94051,
+  "LOD2": 19612
+ },
+ "xr_budget": {
+  "LOD0": 500000,
+  "LOD1": 150000,
+  "LOD2": 50000
+ },
+ "xr_budget_pass": {
+  "LOD0": true,
+  "LOD1": true,
+  "LOD2": true
+ },
+ "cleanup": {
+  "duplicate_vertices_merged": 4841,
+  "bad_faces_removed": 0,
+  "parts_with_non_manifold_edges": 0,
+  "parts_with_open_boundaries": 3
+ },
+ "safety_fixups": 6,
+ "files": {
+  "LOD0": "ToyCar_LOD0.glb",
+  "LOD1": "ToyCar_LOD1.glb",
+  "LOD2": "ToyCar_LOD2.glb"
+ },
+ "parts_detail": [
+  {
+   "part": "Glass",
+   "faces_LOD0": 2494,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 2494,
+   "err_LOD1": 0.00596,
+   "how_LOD1": "model",
+   "fixups_LOD1": 4,
+   "keep_LOD2": 0.1197,
+   "faces_LOD2": 298,
+   "err_LOD2": 0.00539,
+   "how_LOD2": "model",
+   "fixups_LOD2": 0
+  },
+  {
+   "part": "Fabric",
+   "faces_LOD0": 17605,
+   "keep_LOD1": 0.1546,
+   "faces_LOD1": 2720,
+   "err_LOD1": 0.00143,
+   "how_LOD1": "model",
+   "fixups_LOD1": 0,
+   "keep_LOD2": 0.043,
+   "faces_LOD2": 756,
+   "err_LOD2": 0.00402,
+   "how_LOD2": "model",
+   "fixups_LOD2": 0
+  },
+  {
+   "part": "ToyCar",
+   "faces_LOD0": 88837,
+   "keep_LOD1": 1.0,
+   "faces_LOD1": 88837,
+   "err_LOD1": 0.00207,
+   "how_LOD1": "model",
+   "fixups_LOD1": 2,
+   "keep_LOD2": 0.2089,
+   "faces_LOD2": 18558,
+   "err_LOD2": 0.00254,
+   "how_LOD2": "model",
+   "fixups_LOD2": 0
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+data/*.glb
+out/
+__pycache__/
+.pytest_cache/

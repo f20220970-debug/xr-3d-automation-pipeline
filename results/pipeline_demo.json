@@ -1,0 +1,188 @@
+{
+ "assets": [
+  {
+   "asset": "CarConcept.glb",
+   "parts": 109,
+   "seconds": 35.1,
+   "unit_detected": "m",
+   "unit_confident": true,
+   "size_m": [
+    2.542,
+    1.149,
+    4.357
+   ],
+   "triangles": {
+    "LOD0": 213343,
+    "LOD1": 62404,
+    "LOD2": 29310
+   },
+   "xr_budget_pass": {
+    "LOD0": true,
+    "LOD1": true,
+    "LOD2": true
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 48489,
+    "bad_faces_removed": 4,
+    "parts_with_non_manifold_edges": 2,
+    "parts_with_open_boundaries": 97
+   },
+   "safety_fixups": 69
+  },
+  {
+   "asset": "CesiumMilkTruck.glb",
+   "parts": 5,
+   "seconds": 2.6,
+   "unit_detected": "m",
+   "unit_confident": true,
+   "size_m": [
+    2.792,
+    2.583,
+    4.869
+   ],
+   "triangles": {
+    "LOD0": 3624,
+    "LOD1": 3624,
+    "LOD2": 3473
+   },
+   "xr_budget_pass": {
+    "LOD0": true,
+    "LOD1": true,
+    "LOD2": true
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 2375,
+    "bad_faces_removed": 0,
+    "parts_with_non_manifold_edges": 0,
+    "parts_with_open_boundaries": 5
+   },
+   "safety_fixups": 12
+  },
+  {
+   "asset": "2CylinderEngine.glb",
+   "parts": 115,
+   "seconds": 51.6,
+   "unit_detected": "mm",
+   "unit_confident": true,
+   "size_m": [
+    0.743,
+    0.273,
+    0.268
+   ],
+   "triangles": {
+    "LOD0": 110336,
+    "LOD1": 91051,
+    "LOD2": 36032
+   },
+   "xr_budget_pass": {
+    "LOD0": true,
+    "LOD1": true,
+    "LOD2": true
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 24294,
+    "bad_faces_removed": 11160,
+    "parts_with_non_manifold_edges": 0,
+    "parts_with_open_boundaries": 89
+   },
+   "safety_fixups": 196
+  },
+  {
+   "asset": "GearboxAssy.glb",
+   "parts": 95,
+   "seconds": 112.9,
+   "unit_detected": "cm",
+   "unit_confident": false,
+   "size_m": [
+    0.298,
+    0.113,
+    0.193
+   ],
+   "triangles": {
+    "LOD0": 646064,
+    "LOD1": 494650,
+    "LOD2": 218930
+   },
+   "xr_budget_pass": {
+    "LOD0": false,
+    "LOD1": false,
+    "LOD2": false
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 37684,
+    "bad_faces_removed": 0,
+    "parts_with_non_manifold_edges": 0,
+    "parts_with_open_boundaries": 2
+   },
+   "safety_fixups": 274
+  },
+  {
+   "asset": "ReciprocatingSaw.glb",
+   "parts": 113,
+   "seconds": 153.7,
+   "unit_detected": "mm",
+   "unit_confident": true,
+   "size_m": [
+    0.375,
+    0.084,
+    0.149
+   ],
+   "triangles": {
+    "LOD0": 198468,
+    "LOD1": 166209,
+    "LOD2": 129208
+   },
+   "xr_budget_pass": {
+    "LOD0": true,
+    "LOD1": false,
+    "LOD2": false
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 54591,
+    "bad_faces_removed": 2,
+    "parts_with_non_manifold_edges": 2,
+    "parts_with_open_boundaries": 35
+   },
+   "safety_fixups": 451
+  },
+  {
+   "asset": "ToyCar.glb",
+   "parts": 3,
+   "seconds": 6.2,
+   "unit_detected": "m",
+   "unit_confident": true,
+   "size_m": [
+    0.073,
+    0.029,
+    0.074
+   ],
+   "triangles": {
+    "LOD0": 108936,
+    "LOD1": 94051,
+    "LOD2": 19612
+   },
+   "xr_budget_pass": {
+    "LOD0": true,
+    "LOD1": true,
+    "LOD2": true
+   },
+   "cleanup": {
+    "duplicate_vertices_merged": 4841,
+    "bad_faces_removed": 0,
+    "parts_with_non_manifold_edges": 0,
+    "parts_with_open_boundaries": 3
+   },
+   "safety_fixups": 6
+  }
+ ],
+ "timing": {
+  "asset": "2CylinderEngine",
+  "model_seconds": 51.6,
+  "binary_search_seconds": 178.8,
+  "binary_search_triangles": {
+   "LOD0": 110336,
+   "LOD1": 80005,
+   "LOD2": 31170
+  }
+ }
+}

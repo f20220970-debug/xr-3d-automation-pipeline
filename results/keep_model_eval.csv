@@ -1,0 +1,17 @@
+lod,method,compliance_pct,triangles_kept_pct_of_original,triangles_vs_oracle,median_abs_error_keep,avg_checks_per_part
+lod1,model_median,54.2,21.0,0.96,0.142,
+lod1,model_q90,82.4,48.0,2.18,0.263,
+lod1,fixed_median,51.3,37.5,1.7,0.181,
+lod1,fixed_q90,89.5,82.8,3.76,0.46,
+lod1,model_median + verify/step-up (shipped),100.0,29.8,1.36,0.117,1.67
+lod1,model_q90 + verify/step-up (shipped),100.0,51.1,2.32,0.252,1.2
+lod1,fixed_median + verify/step-up (shipped),100.0,43.3,1.97,0.149,1.8
+lod1,oracle (binary search),100.0,22.0,1.0,0.0,8.0
+lod2,model_median,54.2,9.1,0.95,0.066,
+lod2,model_q90,80.7,26.6,2.78,0.161,
+lod2,fixed_median,51.6,13.4,1.4,0.082,
+lod2,fixed_q90,88.6,51.8,5.4,0.395,
+lod2,model_median + verify/step-up (shipped),100.0,14.4,1.5,0.061,1.96
+lod2,model_q90 + verify/step-up (shipped),100.0,28.8,3.0,0.137,1.31
+lod2,fixed_median + verify/step-up (shipped),100.0,17.9,1.87,0.068,2.08
+lod2,oracle (binary search),100.0,9.6,1.0,0.0,8.0
